@@ -1,0 +1,6 @@
+﻿{
+  "SQLServerConnectionString": "Server=.\\SQLEXPRESS;Database=InventoryDB;Trusted_Connection=True;TrustServerCertificate=True",
+  "MongoDBConnectionString": "mongodb://localhost:27017",
+  "DatabaseName": "InventoryDB"
+}
+
